@@ -61,7 +61,6 @@ I enjoy solving algorithmic problems, exploring system architecture, and buildin
 - ⚙️ REST API Development
 - 🌍 React & Leaflet Mapping Applications
 - 🔌 Embedded Systems & IoT
-- 👁️ Computer Vision & OCR
 - 🗃️ MongoDB Database Applications
 
 ---
