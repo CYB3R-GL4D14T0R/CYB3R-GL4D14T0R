@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 HELLO, I'M JACK
+# 👋 HELLO, I'M CYB3R GL4D1ATOR
 
 ### 🚀 Software Developer | Electronics Engineer | Technology Enthusiast
 
